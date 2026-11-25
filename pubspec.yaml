@@ -16,7 +16,7 @@ dependencies:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: b80a6a8b9c6e87765b5b806a152c293372f4b2dd
+      ref: c312d857ea650a5cc2af1b7b1d447eaa21003e11
 
 dev_dependencies:
   flutter_test:
